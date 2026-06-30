@@ -1,0 +1,4 @@
+name: zmk-status-ble-module
+build:
+  cmake: .
+  kconfig: Kconfig
